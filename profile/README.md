@@ -1,4 +1,4 @@
-## Cryptkeep 🏰
+## CryptKeep 🏰
 
 Cryptkeep is a web-based app under development by two University of Oregon students.
 
