@@ -2,7 +2,7 @@
 
 Cryptkeep is a web-based app under development by two University of Oregon students.
 
-View our progress --> [App](https://cryptkeepapp.xyz/) [Changelog](https://cryptkeepapp.xyz/log/)
+View our progress --> [cryptkeepapp.xyz](https://cryptkeepapp.xyz/)
 
 <!--
 
